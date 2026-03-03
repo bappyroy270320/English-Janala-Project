@@ -5,3 +5,8 @@
 .bangla-font{
     font-family: "Anek Bangla", sans-serif;
 }
+
+.active{
+    background-color: #422ad5;
+    color: white;
+}
